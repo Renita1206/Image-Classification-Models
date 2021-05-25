@@ -1,4 +1,4 @@
 # Image-Classification-Models
 
-Image classification using Deep Learning Models. 
+Image classification using Deep Learning Models.  
 Uses tensorflow and keras
